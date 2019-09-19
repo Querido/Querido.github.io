@@ -27,7 +27,7 @@ Create a website and install an apk.
 ##### References
 
 - [What is Android Studio? - Definition from WhatIs.com](https://searchmobilecomputing.techtarget.com/definition/Android-Studio)
-- [Download Android Studio and SDK tools | Android Developers](https://developer.android.com/studio)
+- [Download Android Studio and SDK tools \| Android Developers](https://developer.android.com/studio)
 - [Android Studio - Wikipedia](https://en.wikipedia.org/wiki/Android_Studio)
 - [Debugging in Android Studio](https://www.strv.com/blog/debugging-in-android-studio-as)
 
